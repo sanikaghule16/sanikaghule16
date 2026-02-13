@@ -3,7 +3,6 @@
 💻 Interested in Software Development, Programming & Problem Solving  
 🌱 Currently learning new technologies  
 📍 India
-
 ---
 ## 🛠️ Skills
 - HTML, CSS
@@ -13,17 +12,13 @@
 - C#
 - Python
 - Java
-
 ---
-
 ## 📂 Projects
 🚲 Bike Service Management System  
 - Built using HTML, CSS, PHP & MySQL  
-
 ---
 ## 📫 Connect with me
 - LinkedIn: Add your link here
 - Email: sanikaghule4@gmail.com
-
 ---
 ⭐ Thank you for visiting my profile!
