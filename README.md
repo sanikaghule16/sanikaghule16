@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Sanika Ghule
 
-<!--
-**sanikaghule16/sanikaghule16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Graduate (9.64 CGPA)  
+💻 Interested in Software Development, Programming & Problem Solving  
+🌱 Currently learning new technologies  
+📍 India
 
-Here are some ideas to get you started:
+---
+## 🛠️ Skills
+- HTML, CSS
+- PHP
+- SQL
+- .NET
+- C#
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects
+🚲 Bike Service Management System  
+- Built using HTML, CSS, PHP & MySQL  
+
+---
+## 📫 Connect with me
+- LinkedIn: Add your link here
+- Email: sanikaghule4@gmail.com
+
+---
+⭐ Thank you for visiting my profile!
