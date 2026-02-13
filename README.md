@@ -1,5 +1,4 @@
 # Hi 👋 I'm Sanika Ghule
-
 🎓 BSc Computer Science Graduate (9.64 CGPA)  
 💻 Interested in Software Development, Programming & Problem Solving  
 🌱 Currently learning new technologies  
