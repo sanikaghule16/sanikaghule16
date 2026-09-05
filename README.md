@@ -18,7 +18,7 @@
 - Built using HTML, CSS, PHP & MySQL  
 ---
 ## 📫 Connect with me
-- LinkedIn: Add your link here
+- LinkedIn: https://www.linkedin.com/in/sanika-ghule-75681137a
 - Email: sanikaghule4@gmail.com
 ---
 ⭐ Thank you for visiting my profile!
